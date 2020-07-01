@@ -1,4 +1,5 @@
 # Neural-Art-Transfer
 
-Using Neural networks to Transfer Art. Built using Google Colaboratory
+Using Neural Networks to Transfer Art.<br>
+Built using Google Colaboratory <br>
 VGG 16 Architecture
